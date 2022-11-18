@@ -1,1 +1,1 @@
-# Isotopes
+# Isotopes interval project
